@@ -1,6 +1,6 @@
 # cmd-mod-java
 
-made by bmxcoder
+made by Heynoo
 discord: BM_X_Coder#4505
 
  # 1.17 command
